@@ -1,6 +1,7 @@
 # Welcome to the Pitt Fuego Magic Show!
 Getting Started with GitHub in the Rhetoric and Composition Classroom
 
+https://bit.ly/3Ekdn6f
 
 ## Workshop Goals
 
