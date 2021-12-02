@@ -41,7 +41,7 @@ Learn...
 
 
 
-## Best Practices for Working with Code in the Classroom
+## Best Practices for Working with Pitt Fuego in the Classroom
 
 
 * *Work with Code* – most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
